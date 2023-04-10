@@ -20,8 +20,6 @@ CCTV-16 奥林匹克 4K,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_
 CCTV-17 农业农村,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
 CCTV-4K,http://hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
 CETV-1,http://hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
-凤凰中文,http://hw1live.rxip.sc96655.com.huan.tv/live/playback1_4000.m3u8
-凤凰资讯,http://hw1live.rxip.sc96655.com.huan.tv/live/playback2_4000.m3u8
 
 卫视频道,#genre#
 黑龙江卫视,http://hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
@@ -53,23 +51,11 @@ CETV-1,http://hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
 广东卫视,http://hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
 深圳卫视,http://hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
 
-地方频道,#genre#
-四川经济,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-2-H265_4000.m3u8
-四川新闻,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-4H265_4000.m3u8
-四川科教,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-ggSCTV-8_4000.m3u8
-四川乡村,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-kjSCTV-9-_4000.m3u8
-四川峨嵋电影,http://hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
-四川影视文艺,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-5-scysH265_4000.m3u8
-四川文化旅游,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-3-H265_4000.m3u8
-四川妇女儿童,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-7-_4000.m3u8
+电影频道,#genre#
 4K超高清电影,http://hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 CHC家庭影院,http://hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC高清电影,http://hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
 CHC动作电影,http://hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-CBN每日影院,http://hw1live.rxip.sc96655.com.huan.tv/live/mryy_4000.m3u8
-CBN幸福剧场,http://hw1live.rxip.sc96655.com.huan.tv/live/xfjc_4000.m3u8
-CBN幸福娱乐,http://hw1live.rxip.sc96655.com.huan.tv/live/xfyl_4000.m3u8
-CBN风尚生活,http://hw1live.rxip.sc96655.com.huan.tv/live/fssh_4000.m3u8
 新视觉,http://hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
 乐游,http://hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8
 东方财经,http://hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
@@ -81,6 +67,16 @@ CBN风尚生活,http://hw1live.rxip.sc96655.com.huan.tv/live/fssh_4000.m3u8
 生活时尚,http://hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8
 法治天地,http://hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8
 欢笑剧场4K,http://hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000.m3u8
+
+四川地方,#genre#
+四川经济,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-2-H265_4000.m3u8
+四川新闻,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-4H265_4000.m3u8
+四川科教,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-ggSCTV-8_4000.m3u8
+四川乡村,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-kjSCTV-9-_4000.m3u8
+四川峨嵋电影,http://hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
+四川影视文艺,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-5-scysH265_4000.m3u8
+四川文化旅游,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-3-H265_4000.m3u8
+四川妇女儿童,http://hw1live.rxip.sc96655.com.huan.tv/live/SCTV-7-_4000.m3u8
 甘孜综合,http://hw1live.rxip.sc96655.com.huan.tv/live/gzxwzh_2000.m3u8
 剑阁综合,http://hw1live.rxip.sc96655.com.huan.tv/live/jgxwzhH265_4000.m3u8
 峨眉综合,http://hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
@@ -178,7 +174,6 @@ CBN风尚生活,http://hw1live.rxip.sc96655.com.huan.tv/live/fssh_4000.m3u8
 绵阳新闻综合,http://hw1live.rxip.sc96655.com.huan.tv/live/myytH265_4000.m3u8
 绵阳科技,http://hw1live.rxip.sc96655.com.huan.tv/live/myetH265_4000.m3u8
 雅安新闻综合,http://hw1live.rxip.sc96655.com.huan.tv/live/yazh_2000.m3u8
-雅安公共,http://hw1live.rxip.sc96655.com.huan.tv/live/yagg_2000.m3u8
 广元综合,http://hw1live.rxip.sc96655.com.huan.tv/live/gyzhH265_4000.m3u8
 广元文化生活,http://hw1live.rxip.sc96655.com.huan.tv/live/gyggH265_4000.m3u8
 自贡综合,http://hw1live.rxip.sc96655.com.huan.tv/live/zgxw_4000.m3u8
@@ -189,10 +184,8 @@ CBN风尚生活,http://hw1live.rxip.sc96655.com.huan.tv/live/fssh_4000.m3u8
 巴中文旅生活,http://hw1live.rxip.sc96655.com.huan.tv/live/bzetH264_2000.m3u8
 攀枝花新闻综合,http://hw1live.rxip.sc96655.com.huan.tv/live/pzhytH265_4000.m3u8
 新津,http://hw1live.rxip.sc96655.com.huan.tv/live/xjzh_4000.m3u8
-木里,http://hw1live.rxip.sc96655.com.huan.tv/live/mltHD_4000.m3u8
 岳池,http://hw1live.rxip.sc96655.com.huan.tv/live/ycxw_2000.m3u8
 万源,http://hw1live.rxip.sc96655.com.huan.tv/live/wyxwzh_2000.m3u8
-雁江,http://hw1live.rxip.sc96655.com.huan.tv/live/yjxw_2000.m3u8
 营山,http://hw1live.rxip.sc96655.com.huan.tv/live/ysxw_2000.m3u8
 西昌,http://hw1live.rxip.sc96655.com.huan.tv/live/xctHD_2000.m3u8
 康定,http://hw1live.rxip.sc96655.com.huan.tv/live/gzkdxwzh_2000.m3u8
@@ -203,100 +196,5 @@ CBN风尚生活,http://hw1live.rxip.sc96655.com.huan.tv/live/fssh_4000.m3u8
 精品导视,http://hw1live.rxip.sc96655.com.huan.tv/live/jpdsH265_4000.m3u8
 川网导视,http://hw1live.rxip.sc96655.com.huan.tv/live/cwdsHDH264_4000.m3u8
 央广购物,http://hw1live.rxip.sc96655.com.huan.tv/live/yggwgq_4000.m3u8
-中国天气 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
-摄影频道 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/sy_4000.m3u8
-天元围棋 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
-四海钓鱼 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8
-车迷频道 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/cmpdH264_2000.m3u8
-百姓健康 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/bxjkH264_2000.m3u8
-先锋乒羽 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/xfpy_4000.m3u8
-嘉佳卡通 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8
-卡酷少儿 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8
-纪实科教 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8
-重庆气摩 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/qmpdH264_2000.m3u8
-家庭理财 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jtlc_4000.m3u8
-书画频道 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
-证劵服务 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jz_2000.m3u8
-中央新影-老故事 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/lgs_2000.m3u8
-中央新影-中学生 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/zxs_4000.m3u8
-中央新影-发现之旅 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
-广西卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8
-陕西卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
-山西卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8
-云南卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
-甘肃卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
-新疆卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
-西藏卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
-海南卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8
-兵团卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8
-康巴卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/kbwsH264_2000.m3u8
-内蒙古卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
-山东教育卫视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/sdjy_4000.m3u8
-江苏财富天下 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/cftx_4000.m3u8
-成都经济 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8
-成都生活 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8
-成都影视 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
-成都公共 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8
-川广融媒 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/cgrh_2000.m3u8
-丹棱综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/dlxwzhH265_4000.m3u8
-南部综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/nbxw_2000.m3u8
-安居综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ajxw_2000.m3u8
-富顺综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/fszh_2000.m3u8
-广汉综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ghxwzh_2000.m3u8
-武胜综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/wsxw_2000.m3u8
-汉源综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hyxwzh_2000.m3u8
-雅安雨城 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ycpd_2000.m3u8
-青川综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/qcxwzhH265_4000.m3u8
-龙泉综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/lqxw_2000.m3u8
-宁南综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/nnt_4000.m3u8
-普格综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/pgt_4000.m3u8
-冕宁综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/mnxw_2000.m3u8
-江油综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jyxwHD_2000.m3u8
-双流综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/slgq_2000.m3u8
-泸县综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/lxxwzh_2000.m3u8
-筠连综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ylyt_2000.m3u8
-东兴综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/dxxwzh_4000.m3u8
-华蓥综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hyxw_2000.m3u8
-射洪综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/shzhH264_2000.m3u8
-合江综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hjxw_2000.m3u8
-犍为综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/qwxwzh_2000.m3u8
-蓬安综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/pazh_2000.m3u8
-内江综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/njzh_4000.m3u8
-内江公共 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/njgg_4000.m3u8
-泸州综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/lzxw_2000.m3u8
-泸州公共 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/lzgg_2000.m3u8
-会理新闻 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hlyt_4000.m3u8
-井研新闻综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh_2000.m3u8
-仪陇新闻综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ylxw_2000.m3u8
-叙州新闻综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ybx_2000.m3u8
-简阳新闻综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jyxwzh_2000.m3u8
-广安新闻综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/gaxwzh_2000.m3u8
-广安公共频道 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/gagg_2000.m3u8
-广安区电视台 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/gaqxw_2000.m3u8
-马尔康综合 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/mekxwzhpd_2000.m3u8
-德昌电视台 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/dcxw_4000.m3u8
-江安电视台 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jat_2000.m3u8
-叙永电视台 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/xyxw_2000.m3u8
-攀枝花文旅生活 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/pzhggpd_2000.m3u8
-都江堰 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/djyzh_4000.m3u8
-纳溪-1 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/nxxw_2000.m3u8
-绵竹 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/mzxwzh_2000.m3u8
-罗江 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ljxwzh_2000.m3u8
-金牛 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jnyx_2000.m3u8
-邻水 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/lsxw_2000.m3u8
-石棉 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/smxwzh_2000.m3u8
-前锋 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/qfxw_2000.m3u8
-喜德 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/xdxw_4000.m3u8
-黑水 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hsxwzhpdH264_2000.m3u8
-CETV-2 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CETV-2_4000.m3u8
-CETV-4 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264_2000.m3u8
-CGTN-英语 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/CGTN_4000.m3u8
-CGTN-西语 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/xbyy_2000.m3u8
-CGTN-法语 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/fy_2000.m3u8
-CGTN-俄语 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ey_2000.m3u8
-优购物 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/ygw.m3u8
-家有购物 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jygw.m3u8
-家家购物 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/jjgw.m3u8
-聚鲨环球精选 标清,http://hw1live.rxip.sc96655.com.huan.tv/live/hqgw.m3u8
 成都高新区,http://hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
 成都新闻综,http://hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
